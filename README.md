@@ -17,7 +17,11 @@ All written material here is licensed under a <a rel="license" href="http://crea
 Table of Contents
 -----------------
 
-### External Resources
+* apfelmus/
+    * [mvc.md](apfelmus/mvc.md) — Three useful principles for structuring GUI code.
+
+External Resources
+------------------
 
 * FRP was pioneered by Conal Elliott and his writings are a good source on the topic.
   * ["Functional Reactive Animation"][2a] — This is the seminal paper that started the whole FRP thing. It's still a nice, though somewhat outdated overview of FRP.
