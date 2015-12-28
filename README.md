@@ -1,10 +1,13 @@
-# frp-guides
+FRP Guides
+==========
 
 This respository collects tutorials, guidelines, examples, patterns and half-baked ideas on functional reactive programming (FRP).
 
-The focus is on FRP libraries written in [Haskell][], using the style originally pioneered by Conal Elliott, and developed e.g. in [reactive-banana][], [frpnow][] or [sodium][] libraries.
+At the moment, it is organized a bit like a curated Wiki. If you've found a nice code pattern, or a cool link, don't hesitate to make a pull request.
 
-All written material here is licensed under a CC-BY-SA 4.0 license. Any source code contained therein is put into the public domain / licensed under BSD3 / something equivalent whose wording we'll figure out shortly.
+The focus is on FRP libraries written in [Haskell][], using the style originally pioneered by Conal Elliott, and developed e.g. in the [reactive-banana][], [frpnow][] or [sodium][] libraries.
+
+All written material here is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0 License</a>. Any source code snippets or examples used here are released to the public domain.
 
   [haskell]: https://www.haskell.org/
   [reactive-banana]: https://github.com/HeinrichApfelmus/reactive-banana
