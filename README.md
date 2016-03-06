@@ -17,8 +17,9 @@ All written material here is licensed under a <a rel="license" href="http://crea
 Table of Contents
 -----------------
 
-* apfelmus/
-    * [mvc.md](apfelmus/mvc.md) — Three useful principles for structuring GUI code.
+* [Heinrich Apfelmus](apfelmus/)
+    * [Introduction to Functional Reactive Programming](apfelmus/frp-intro.md) — Slides and video link for a introductory talk I gave at Bobkonf 2016
+    * [The Model-View-Controller Pattern and Functional Reactive Programming](apfelmus/mvc.md) — Three useful principles for structuring GUI code.
 
 External Resources
 ------------------

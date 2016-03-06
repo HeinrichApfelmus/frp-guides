@@ -1,0 +1,44 @@
+/* Styling */ 
+body {
+    font-family: Gill Sans;
+    font-size:24px;
+    background-color: #EEE;
+}
+.code { font-family: Menlo; }
+button, input {
+    margin: 5px;
+    font-size: 24px;
+    font-family: Gill Sans;
+}
+button { height: 50px; }
+input { padding: 5px; }
+
+/* Positioning */
+body { position: relative; }
+#outer {
+  position: absolute;
+  top: 100px;
+  left:100px;
+}
+
+/*
+body {
+    text-align: center;
+}
+#outer {
+    width : 100%;
+    margin: 0 auto;
+}
+*/
+
+/*
+body {
+  position: relative;
+}
+#outer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 300%);
+}
+*/
