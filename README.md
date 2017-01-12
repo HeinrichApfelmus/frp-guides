@@ -35,3 +35,8 @@ External Resources
   [2b]: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.31.1064
   [2c]: http://conal.net/papers/push-pull-frp/
   [blackheath]: https://www.manning.com/books/functional-reactive-programming
+
+* Joachim Breitner's course [CIS 194: Introduction to Haskell][joachim] also includes a nice [tutorial of FRP][joachim-frp].
+
+  [joachim]: http://cis.upenn.edu/~cis194/fall16/
+  [joachim-frp]: http://cis.upenn.edu/~cis194/fall16/lectures/11-frp.html
