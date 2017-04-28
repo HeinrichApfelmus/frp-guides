@@ -55,7 +55,7 @@ The main point is that the data in the model may change over time, usually on re
 
 But since we are using [Haskell][haskell], the programming language that is most powerful when it comes to creating new abstractions, we can look for other paradigms to represent MVC concepts. In particular, we will make use of [functional reactive programming][frp] (FRP).
 
-The core idea of FRP is to use abstract date types that already include a notion of time. There are several different variations on this theme; in Threepenny, we will use the FRP variant laid out in the [reactive-banana library][reactive-banana]. It consists of two core types, the **Behavior** and the **Event**.
+The core idea of FRP is to use abstract data types that already include a notion of time. There are several different variations on this theme; in Threepenny, we will use the FRP variant laid out in the [reactive-banana library][reactive-banana]. It consists of two core types, the **Behavior** and the **Event**.
 
 A Behavior is simply a *value that varies in time*. You can think of it as a function that maps each moment in time to the corresponding value.
 
