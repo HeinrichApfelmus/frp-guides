@@ -40,3 +40,5 @@ External Resources
 
   [joachim]: http://cis.upenn.edu/~cis194/fall16/
   [joachim-frp]: http://cis.upenn.edu/~cis194/fall16/lectures/11-frp.html
+
+* Paul Johnson's short [tutorial on using Reactive Banana with GTK3](http://paulspontifications.blogspot.de/2018/02/haskell-with-reactive-banana-and-gtk3.html).
