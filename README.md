@@ -29,7 +29,7 @@ External Resources
   * ["Declarative event-oriented programming"][2b] — Practial example that demonstrates the utility of FRP for GUI programming. Excellent introduction to the general programming philosophy.
   * ["Push-pull functional reactive programming"][2c] — Good read for understanding how the model is mapped to an API in terms of applicative and other functors.
 
-* Stephen Blackheath and Antony Jones have written a [book "Functional Reactive Programming"][blackheath]. It is an introduction to FRP using Java as the main language, but it also describes several patterns that occur in practice.
+* Stephen Blackheath and Anthony Jones have written a [book "Functional Reactive Programming"][blackheath]. It is an introduction to FRP using Java as the main language, but it also describes several patterns that occur in practice.
 
   [2a]: http://conal.net/papers/icfp97/
   [2b]: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.31.1064
